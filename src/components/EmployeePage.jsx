@@ -12,8 +12,8 @@ export default function EmployeePage() {
     <br></br>
     <div className="contactInfo">
       <h2>Julie Taylor</h2>
-      <div className="contactInfo">
-      <p><b>Call Office</b></p></div>
+      <div className="contactInfo"></div>
+      <p><b>Call Office</b></p>
       <p>781-000-0002</p>
       <div className="contactInfo"></div>
       <p><b>Call Mobile</b></p>
